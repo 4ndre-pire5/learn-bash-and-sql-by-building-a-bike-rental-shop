@@ -6,6 +6,8 @@ MAIN_MENU(){
     echo -e "\n1. Rent a bike"
     echo "2. Return a bike"
     echo "3. Exit"
+
+    read MAIN_MENU_SELECTION
 }
 
 MAIN_MENU
