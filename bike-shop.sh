@@ -6,6 +6,7 @@ MAIN_MENU(){
     then
         echo -e "\n$1"
     fi
+
     echo "How may I help you?"
     echo -e "\n1. Rent a bike"
     echo "2. Return a bike"
@@ -22,7 +23,6 @@ MAIN_MENU(){
 }
 
 RENT_MENU(){
-    echo "Rent Menu"
 }
 
 RETURN_MENU(){
