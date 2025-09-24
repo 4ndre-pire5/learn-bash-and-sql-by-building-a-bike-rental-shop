@@ -59,12 +59,9 @@ RENT_MENU(){
             #if not available
             if [[ -z $BIKE_AVAILABILITY ]]
             then
-                #send to main menu
+                # send to main menu
             fi
-            #send to main menu
         fi
-
-        #send to main menu
     fi
     #send to main menu
 }
