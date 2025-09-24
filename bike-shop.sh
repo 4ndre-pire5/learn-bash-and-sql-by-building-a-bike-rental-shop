@@ -10,6 +10,8 @@ MAIN_MENU(){
     read MAIN_MENU_SELECTION
 }
 
-RENT_MENU(){}
+RENT_MENU(){
+    echo "Rent Menu"
+}
 
 MAIN_MENU
