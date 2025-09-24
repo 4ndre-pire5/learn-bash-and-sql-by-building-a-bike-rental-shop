@@ -18,6 +18,8 @@ RETURN_MENU(){
     echo "Return Menu"
 }
 
-EXIT(){}
+EXIT(){
+    echo -e "\nThank you for stopping in.\n"
+}
 
 MAIN_MENU
