@@ -101,6 +101,9 @@ RENT_MENU(){
 }
 
 RETURN_MENU(){
+    #get customer info
+    #if not found
+    #send to main menu
 }
 
 EXIT(){
